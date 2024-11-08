@@ -2,3 +2,4 @@ hello
 good afternoon everyone 
 welcome to git lab
 collaboration and remote repositories
+navigate to the main page of the repository
